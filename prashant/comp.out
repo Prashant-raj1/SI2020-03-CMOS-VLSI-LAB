@@ -1,0 +1,15 @@
+
+Subcircuit summary:
+Circuit 1: pralayout1.spice                |Circuit 2: pralayout1_std.sp               
+-------------------------------------------|-------------------------------------------
+pfet (1)                                   |pfet (1)                                   
+nfet (1)                                   |nfet (1)                                   
+c (5)                                      |c (5)                                      
+Number of devices: 7                       |Number of devices: 7                       
+Number of nets: 4                          |Number of nets: 4                          
+---------------------------------------------------------------------------------------
+Circuits match uniquely.
+Netlists match uniquely.
+Cells have no pins;  pin matching not needed.
+Device classes pralayout1.spice and pralayout1_std.sp are equivalent.
+Circuits match uniquely.
